@@ -1,4 +1,4 @@
-package javaErrorException.HomeWork_003;
+package Exceptions-J;
 
 import java.io.IOException;
 import java.util.HashMap;
