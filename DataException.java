@@ -1,4 +1,4 @@
-package javaErrorException.HomeWork_003;
+package Exceptions-J;
 
 public class DataException extends Exception{
     public DataException() {
